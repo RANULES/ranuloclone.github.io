@@ -52,7 +52,7 @@
 
 .header__option .material-icons {
   font-size: xx-large;
-  color: gray;
+  color: orange;
 }
 
 .header__option:hover .material-icons {
@@ -97,7 +97,7 @@
 }
 
 .header__right .material-icons {
-  color: gray;
+  color: orange;
   margin: 0 10px;
 }
 
@@ -115,7 +115,7 @@
 }
 
 .sidebarRow:hover {
-  background-color: lightgray;
+  background-color: red;
   border-radius: 10px;
 }
 
@@ -156,7 +156,7 @@
   position: absolute;
   bottom: 20px;
   left: 20px;
-  color: white;
+  color: gray;
 }
 
 .storyReel {
@@ -229,7 +229,7 @@ body {
   padding: 8px;
   display: flex;
   align-items: center;
-  color: gray;
+  color: orangw;
   margin: 5px;
 }
 
@@ -275,7 +275,7 @@ body {
 
 .post__topInfo p {
   font-size: small;
-  color: gray;
+  color: orangw;
 }
 
 .post__bottom {
@@ -286,11 +286,11 @@ body {
 
 .post__options {
   padding-top: 10px;
-  border-top: 1px solid lightgray;
+  border-top: 1px solid red;
   display: flex;
   justify-content: space-evenly;
   font-size: medium;
-  color: gray;
+  color: orange;
   cursor: pointer;
   padding: 15px;
 }
